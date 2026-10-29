@@ -1980,15 +1980,6 @@
     },
     {
       "repository": "free_css_website_before",
-      "source_path": "css/.DS_Store",
-      "destination_path": "assignments/free_css_website_before/css/.DS_Store",
-      "source_sha256": "a2447cca5797a6c6b51a3f87d9c368d1683f3e0e2d0dffc5279ff4b7acf0231b",
-      "copied_sha256": "a2447cca5797a6c6b51a3f87d9c368d1683f3e0e2d0dffc5279ff4b7acf0231b",
-      "size": 8196,
-      "destination_sha256": "a2447cca5797a6c6b51a3f87d9c368d1683f3e0e2d0dffc5279ff4b7acf0231b"
-    },
-    {
-      "repository": "free_css_website_before",
       "source_path": "css/animate.min.css",
       "destination_path": "assignments/free_css_website_before/css/animate.min.css",
       "source_sha256": "2b0d5bfd2b38d49d1eaab56cbc0dcc0bb593ed447d74c193e72f6fb19c021c07",
@@ -2502,15 +2493,6 @@
     },
     {
       "repository": "free_css_website_before",
-      "source_path": "images/.DS_Store",
-      "destination_path": "assignments/free_css_website_before/images/.DS_Store",
-      "source_sha256": "299c9ed5b7eb51ae99adc5b2514ebd893348190e587c613a75afaf241dd06a3c",
-      "copied_sha256": "299c9ed5b7eb51ae99adc5b2514ebd893348190e587c613a75afaf241dd06a3c",
-      "size": 10244,
-      "destination_sha256": "299c9ed5b7eb51ae99adc5b2514ebd893348190e587c613a75afaf241dd06a3c"
-    },
-    {
-      "repository": "free_css_website_before",
       "source_path": "images/about_img.png",
       "destination_path": "assignments/free_css_website_before/images/about_img.png",
       "source_sha256": "f03ecf4ba579af379fdadf21a4800b5ae8e38696585e87b51a47de340092d37a",
@@ -2625,15 +2607,6 @@
       "copied_sha256": "68e5470fc4d0fe577abc0517b909ed2399a22fa3fbcb4dc02060f5cf3002aafc",
       "size": 27529,
       "destination_sha256": "68e5470fc4d0fe577abc0517b909ed2399a22fa3fbcb4dc02060f5cf3002aafc"
-    },
-    {
-      "repository": "free_css_website_before",
-      "source_path": "js/.DS_Store",
-      "destination_path": "assignments/free_css_website_before/js/.DS_Store",
-      "source_sha256": "07d98f8830edea8308aa08f312008348aa020da57179a529767b7863f8541c28",
-      "copied_sha256": "07d98f8830edea8308aa08f312008348aa020da57179a529767b7863f8541c28",
-      "size": 8196,
-      "destination_sha256": "07d98f8830edea8308aa08f312008348aa020da57179a529767b7863f8541c28"
     },
     {
       "repository": "free_css_website_before",
@@ -2778,15 +2751,6 @@
       "copied_sha256": "079fc5f34a9b8cb6bbfbc8684705a6eda945ee16a559ca7424c1c428a09a458d",
       "size": 19196,
       "destination_sha256": "079fc5f34a9b8cb6bbfbc8684705a6eda945ee16a559ca7424c1c428a09a458d"
-    },
-    {
-      "repository": "free_css_website_before",
-      "source_path": "js/revolution/.DS_Store",
-      "destination_path": "assignments/free_css_website_before/js/revolution/.DS_Store",
-      "source_sha256": "ffee6f121d9ad6f7f1687cc6af5f532071d32fc8e09a6af7f1ec1193f5a81159",
-      "copied_sha256": "ffee6f121d9ad6f7f1687cc6af5f532071d32fc8e09a6af7f1ec1193f5a81159",
-      "size": 8196,
-      "destination_sha256": "ffee6f121d9ad6f7f1687cc6af5f532071d32fc8e09a6af7f1ec1193f5a81159"
     },
     {
       "repository": "free_css_website_before",
@@ -2979,15 +2943,6 @@
     },
     {
       "repository": "free_css_website_before",
-      "source_path": "js/revolution/js/.DS_Store",
-      "destination_path": "assignments/free_css_website_before/js/revolution/js/.DS_Store",
-      "source_sha256": "b14e142da42ff0226e509f26c9e408708addf9351e2367265c7af3686f56c7ef",
-      "copied_sha256": "b14e142da42ff0226e509f26c9e408708addf9351e2367265c7af3686f56c7ef",
-      "size": 6148,
-      "destination_sha256": "b14e142da42ff0226e509f26c9e408708addf9351e2367265c7af3686f56c7ef"
-    },
-    {
-      "repository": "free_css_website_before",
       "source_path": "js/revolution/js/extensions/revolution.extension.actions.min.js",
       "destination_path": "assignments/free_css_website_before/js/revolution/js/extensions/revolution.extension.actions.min.js",
       "source_sha256": "3cd73ec04943a47c75c4e6a4b60f6597cf10144ce1877ca17229fcb4830e6f8e",
@@ -3111,15 +3066,6 @@
       "copied_sha256": "f231b3ef64a96442a22711922c10eb3f90bff5ed980172871229f172da6b6d1d",
       "size": 3111,
       "destination_sha256": "d261d3097df142888f33630ba26594c867b4fff45342902be7a52cfca9a35cd7"
-    },
-    {
-      "repository": "free_css_website_after",
-      "source_path": "css/.DS_Store",
-      "destination_path": "assignments/free_css_website_after/css/.DS_Store",
-      "source_sha256": "a2447cca5797a6c6b51a3f87d9c368d1683f3e0e2d0dffc5279ff4b7acf0231b",
-      "copied_sha256": "a2447cca5797a6c6b51a3f87d9c368d1683f3e0e2d0dffc5279ff4b7acf0231b",
-      "size": 8196,
-      "destination_sha256": "a2447cca5797a6c6b51a3f87d9c368d1683f3e0e2d0dffc5279ff4b7acf0231b"
     },
     {
       "repository": "free_css_website_after",
@@ -3636,15 +3582,6 @@
     },
     {
       "repository": "free_css_website_after",
-      "source_path": "images/.DS_Store",
-      "destination_path": "assignments/free_css_website_after/images/.DS_Store",
-      "source_sha256": "299c9ed5b7eb51ae99adc5b2514ebd893348190e587c613a75afaf241dd06a3c",
-      "copied_sha256": "299c9ed5b7eb51ae99adc5b2514ebd893348190e587c613a75afaf241dd06a3c",
-      "size": 10244,
-      "destination_sha256": "299c9ed5b7eb51ae99adc5b2514ebd893348190e587c613a75afaf241dd06a3c"
-    },
-    {
-      "repository": "free_css_website_after",
       "source_path": "images/about_img.png",
       "destination_path": "assignments/free_css_website_after/images/about_img.png",
       "source_sha256": "f03ecf4ba579af379fdadf21a4800b5ae8e38696585e87b51a47de340092d37a",
@@ -3816,15 +3753,6 @@
     },
     {
       "repository": "free_css_website_after",
-      "source_path": "js/.DS_Store",
-      "destination_path": "assignments/free_css_website_after/js/.DS_Store",
-      "source_sha256": "07d98f8830edea8308aa08f312008348aa020da57179a529767b7863f8541c28",
-      "copied_sha256": "07d98f8830edea8308aa08f312008348aa020da57179a529767b7863f8541c28",
-      "size": 8196,
-      "destination_sha256": "07d98f8830edea8308aa08f312008348aa020da57179a529767b7863f8541c28"
-    },
-    {
-      "repository": "free_css_website_after",
       "source_path": "js/bootstrap.bundle.js",
       "destination_path": "assignments/free_css_website_after/js/bootstrap.bundle.js",
       "source_sha256": "4b7db567be382bb257d2861a749c0d08e54e8f2db1e710eb8a9ca07fd278d441",
@@ -3966,15 +3894,6 @@
       "copied_sha256": "079fc5f34a9b8cb6bbfbc8684705a6eda945ee16a559ca7424c1c428a09a458d",
       "size": 19196,
       "destination_sha256": "079fc5f34a9b8cb6bbfbc8684705a6eda945ee16a559ca7424c1c428a09a458d"
-    },
-    {
-      "repository": "free_css_website_after",
-      "source_path": "js/revolution/.DS_Store",
-      "destination_path": "assignments/free_css_website_after/js/revolution/.DS_Store",
-      "source_sha256": "ffee6f121d9ad6f7f1687cc6af5f532071d32fc8e09a6af7f1ec1193f5a81159",
-      "copied_sha256": "ffee6f121d9ad6f7f1687cc6af5f532071d32fc8e09a6af7f1ec1193f5a81159",
-      "size": 8196,
-      "destination_sha256": "ffee6f121d9ad6f7f1687cc6af5f532071d32fc8e09a6af7f1ec1193f5a81159"
     },
     {
       "repository": "free_css_website_after",
@@ -4164,15 +4083,6 @@
       "copied_sha256": "f7b9c3065e55fa3b9e320093612e7b30dcb14355a44ec461247b495a3e729686",
       "size": 7536,
       "destination_sha256": "f7b9c3065e55fa3b9e320093612e7b30dcb14355a44ec461247b495a3e729686"
-    },
-    {
-      "repository": "free_css_website_after",
-      "source_path": "js/revolution/js/.DS_Store",
-      "destination_path": "assignments/free_css_website_after/js/revolution/js/.DS_Store",
-      "source_sha256": "b14e142da42ff0226e509f26c9e408708addf9351e2367265c7af3686f56c7ef",
-      "copied_sha256": "b14e142da42ff0226e509f26c9e408708addf9351e2367265c7af3686f56c7ef",
-      "size": 6148,
-      "destination_sha256": "b14e142da42ff0226e509f26c9e408708addf9351e2367265c7af3686f56c7ef"
     },
     {
       "repository": "free_css_website_after",
@@ -12846,6 +12756,56 @@
       "repository": "web_hw4",
       "path": "node_modules/yallist/yallist.js",
       "reason": "dependency, editor setting, cache or generated coverage"
+    },
+    {
+      "repository": "free_css_website_before",
+      "path": "css/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_before",
+      "path": "images/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_before",
+      "path": "js/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_before",
+      "path": "js/revolution/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_before",
+      "path": "js/revolution/js/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_after",
+      "path": "css/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_after",
+      "path": "images/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_after",
+      "path": "js/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_after",
+      "path": "js/revolution/.DS_Store",
+      "reason": "operating-system folder metadata"
+    },
+    {
+      "repository": "free_css_website_after",
+      "path": "js/revolution/js/.DS_Store",
+      "reason": "operating-system folder metadata"
     }
   ],
   "transformations": [
